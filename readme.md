@@ -1,6 +1,6 @@
-# Kicktools Fusion Chat API Reader
+# kickchat.py
 
-This module provides a robust Python API and CLI tool for reading and parsing chat messages from the [kicktools.app Fusion Chat overlay](https://kicktools.app/fusion_chat) for [kick.com](https://kick.com) streams. It uses Selenium to automate browser interaction and extract chat data in real time.
+This module provides a robust Python API and CLI for reading and parsing chat messages from the [kicktools.app Fusion Chat overlay](https://kicktools.app/fusion_chat) for [kick.com](https://kick.com) streams. It uses Selenium to automate browser interaction and extract chat data in real time.
 
 ---
 
